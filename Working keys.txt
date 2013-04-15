@@ -1,0 +1,54 @@
+3	inget
+8	backspace
+9	tab
+10	enter
+12	inget
+16	shift
+17	ctrl
+18	alt
+19	inget
+20	caps on
+27	inget
+28	inget
+29	inget
+32	space
+33	page up
+34	page down
+35	end
+36	home
+37	vänster
+38	upp
+39	höger
+40	ner
+44	,
+45	-
+46	.
+48-57	siffror
+65-90	bokstäver
+96-105	siffror
+106	*
+107	+
+108	inget
+109	-
+110	,
+111	/
+112	deselect
+113	inget
+114	inget
+115	nåt skumt
+116	inget
+117	inget
+118	inget
+119	inget
+120	inget
+121	inget
+122	nåt skumt
+123	inget
+127	delete
+129	inget
+135	error varannan gång, wat
+145	inget
+153	<
+154	inget
+155	insert
+156	inget
